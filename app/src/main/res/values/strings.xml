@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTool</string>
+    <string name="title_activity_get_http_respone">GetHttpResponeActivity</string>
+</resources>
